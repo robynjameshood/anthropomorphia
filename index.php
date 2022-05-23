@@ -30,7 +30,7 @@
 </main>
 <article class="adventure-section">
     <section class="background-art">
-        <p>Discovergit sta Your Inner Demon</p>
+        <p>Discover Your Inner Demon</p>
     </section>
 </article>
 <footer class="footer-content">
