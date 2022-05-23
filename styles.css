@@ -53,15 +53,7 @@ a {
     text-align: center;
     justify-content: center;
     margin: auto;
-    background-color: orange;
-}
-
-.mid-banner {
-    display: block;
-    background-color: darkorchid;
-    height: 75px;
-    width: 100%;
-    opacity: 0.8;
+    background-color: plum;
 }
 
 .adventure-section {
@@ -111,5 +103,5 @@ a {
     width: 300px;
     border: 1px solid orange;
     margin: auto;
-    background-color: orange;
+    background-color: plum;
 }

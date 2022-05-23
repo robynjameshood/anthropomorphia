@@ -21,7 +21,7 @@
     </section>
     <section class="content-box-two">
         <h2>Creatures</h2>
-        <p>An overview</p>
+        <p>Check Out Our Little Demons</p>
     </section>
     <section class="content-box-three">
         <h2>Upcoming Content</h2>
@@ -30,7 +30,7 @@
 </main>
 <article class="adventure-section">
     <section class="background-art">
-        <p>Anthromorphia</p>
+        <p>Discovergit sta Your Inner Demon</p>
     </section>
 </article>
 <footer class="footer-content">
