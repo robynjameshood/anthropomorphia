@@ -1,0 +1,115 @@
+html,body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+nav {
+    display: inline-block;
+    width: 30%;
+    margin: auto;
+    text-align: right;
+}
+
+h3 {
+    display: inline-block;
+    text-align: center;
+    width: 69%;
+}
+h2 {
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    background-color: slateblue;
+    opacity: 0.8;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+}
+
+.content-boxes-wrapper {
+    position: relative;
+    width: 100%;
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: lightgrey;
+}
+
+.content-box-one, .content-box-two, .content-box-three {
+    display: flex;
+    flex-direction: column;
+    height: 200px;
+    width: 300px;
+    border: 1px solid pink;
+    border-radius: 3px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    background-color: orange;
+}
+
+.mid-banner {
+    display: block;
+    background-color: darkorchid;
+    height: 75px;
+    width: 100%;
+    opacity: 0.8;
+}
+
+.adventure-section {
+    position: relative;
+    display: inline-block;
+    flex-direction: column;
+    justify-content: center;
+    height: 45vh;
+    width: 100%;
+    margin: 0;
+}
+
+.adventure-section > .background-art {
+    background-image: url("images/big-box-image-2.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100vw;
+    border: 1px solid green;
+    margin: 0;
+    font-size: 30px;
+}
+
+.background-art > p {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.footer-content {
+    display: flex;
+    background-color: lightgrey;
+    justify-content: space-evenly;
+    text-align: center;
+    border: 1px solid red;
+    width: 100%;
+    height: 250px;
+    margin: auto;
+}
+
+.guides, .forum, .faqs {
+    border-radius: 3px;
+    height: 200px;
+    width: 300px;
+    border: 1px solid orange;
+    margin: auto;
+    background-color: orange;
+}
