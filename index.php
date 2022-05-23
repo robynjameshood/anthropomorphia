@@ -8,7 +8,7 @@
 </head>
 <body>
 <header>
-    <h3>Anthropomorphia</h3>
+    <h3>ANTHROPOMORPHIA</h3>
     <nav>
         <form class="login">
             <label for="username">Username: </label>
@@ -21,15 +21,15 @@
 <main class="content-boxes-wrapper">
     <section class="content-box-one">
         <h2>World</h2>
-        <p>Our world - explored!</p>
+        <p>Our World - Inside The Realm</p>
     </section>
     <section class="content-box-two">
         <h2>Creatures</h2>
-        <p>Check Out Our Little Demons</p>
+        <p>Check Out The Devils And Demons</p>
     </section>
     <section class="content-box-three">
         <h2>Upcoming Content</h2>
-        <p>Developer log</p>
+        <p>Upcoming Devils And Demons</p>
     </section>
 </main>
 <article class="adventure-section">
