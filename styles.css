@@ -7,16 +7,34 @@ html,body {
 }
 
 nav {
+    height: 20px;
     display: inline-block;
-    width: 30%;
+    width: 39%;
     margin: auto;
-    text-align: right;
+    padding: 0;
+}
+
+nav > form {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin: auto;
+    justify-content: center;
+}
+
+.login {
+    width: 100%;
+}
+
+.login > input {
+    width: 150px;
+    margin: 0 10px;
 }
 
 h3 {
     display: inline-block;
     text-align: center;
-    width: 69%;
+    width: 60%;
 }
 h2 {
     padding: 0;

@@ -10,8 +10,12 @@
 <header>
     <h3>Anthropomorphia</h3>
     <nav>
-        <a href="#">Account</a>
-        <a href="#">Inventory</a>
+        <form class="login">
+            <label for="username">Username: </label>
+            <input type="text" name="username">
+            <label for="password">Password: </label>
+            <input type="password" name="password">
+        </form>
     </nav>
 </header>
 <main class="content-boxes-wrapper">
